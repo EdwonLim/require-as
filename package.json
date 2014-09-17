@@ -1,0 +1,16 @@
+{
+  "name": "require-as",
+  "version": "0.0.1",
+  "description": "Alias Require",
+  "main": "alias.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gitcafe.com:EdwonLim/require-as.git"
+  },
+  "keywords": [
+    "require",
+    "alias"
+  ],
+  "author": "Edwon Lim",
+  "license": "BSD-2-Clause"
+}
